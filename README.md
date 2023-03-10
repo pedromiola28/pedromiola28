@@ -4,7 +4,7 @@
 [![GitHub Pedro Miola](https://img.shields.io/github/followers/pedromiola28?label=follow&style=social)](https://github.com/pedromiola28)
 
 ---
-<h3 align="center">Mechanical Engineering student at <a href='http://emc.ufsc.br/portal/?lang=en'>UFSC</a> | Research Assistant at <a href='https://polo.ufsc.br/en/'>POLO</a> | Studying to become a Data Scientist   </a></h3>
+<h3 align="center">Mechanical Engineering student at <a href='http://emc.ufsc.br/portal/?lang=en'>UFSC</a> | Data Science & Analytics Intern at <a href='https://visagio.com/'>Visagio</a>   </a></h3>
 
 
 
