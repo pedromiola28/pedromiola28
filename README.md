@@ -9,7 +9,7 @@
 
 
 - Mechanical Engineer - <a href='http://emc.ufsc.br/portal/?lang=en'>UFSC</a>
-- 👨🏽‍💻 My bachelor thesis consisted on a development time series model for a Magnetic Refrigeration System (https://www.youtube.com/watch?v=5lVMstvAjgk) using NARX Neural Networks!
+- 👨🏽‍💻 My bachelor thesis consisted on a development of a time series model for a Magnetic Refrigeration System (https://www.youtube.com/watch?v=5lVMstvAjgk) using NARX Neural Networks!
 - ⚙️ I use mostly Python and SQL
 - 🌱 Learning about Data Science, Machine Learning, Neural Networks, Cloud Computing 
 - 💬 Feel free to give my any feedback or ask me about anything!
