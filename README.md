@@ -4,14 +4,14 @@
 [![GitHub Pedro Miola](https://img.shields.io/github/followers/pedromiola28?label=follow&style=social)](https://github.com/pedromiola28)
 
 ---
-<h3 align="center">Mechanical Engineering student at <a href='http://emc.ufsc.br/portal/?lang=en'>UFSC</a> | Data Science & Analytics Intern at <a href='https://visagio.com/'>Visagio</a>   </a></h3>
+<h3 align="center"> Data Science Consultant at <a href='https://visagio.com/'>Visagio</a>   </a></h3>
 
 
 
-
-- 👨🏽‍💻 Currently working on my bachelor thesis, developing a Dynamic Model for a Magnetic Refrigeration System: https://www.youtube.com/watch?v=5lVMstvAjgk
-- ⚙️ I use mostly Python but I have experience with Matlab and LabVIEW also!
-- 🌱 Learning about Data Science, Machine Learning, Neural Networks, SQL 
+- Mechanical Engineer - <a href='http://emc.ufsc.br/portal/?lang=en'>UFSC</a>
+- 👨🏽‍💻 My bachelor thesis consisted on a development time series model for a Magnetic Refrigeration System (https://www.youtube.com/watch?v=5lVMstvAjgk) using NARX Neural Networks!
+- ⚙️ I use mostly Python and SQL
+- 🌱 Learning about Data Science, Machine Learning, Neural Networks, Cloud Computing 
 - 💬 Feel free to give my any feedback or ask me about anything!
 - 📫 You can reach me here: miolapedro28@gmail.com
 ---
